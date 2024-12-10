@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1081926746625",
+    "project_id": "curvyfit-53dba",
+    "storage_bucket": "curvyfit-53dba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081926746625:android:263ee0dc0bfa61c8023600",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081926746625-08kc1tb9dbcbdcr82675rvre7ommot2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjSFzwHzzHvou7o1Yu3PV76jzN9jBHfpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081926746625-08kc1tb9dbcbdcr82675rvre7ommot2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081926746625:android:5e24a0976a98e585023600",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081926746625-08kc1tb9dbcbdcr82675rvre7ommot2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjSFzwHzzHvou7o1Yu3PV76jzN9jBHfpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081926746625-08kc1tb9dbcbdcr82675rvre7ommot2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
